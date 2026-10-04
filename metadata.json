@@ -1,0 +1,6 @@
+{
+  "name": "Consistency Assistant",
+  "description": "An intelligent AI-powered consistency and productivity assistant that helps you set meaningful goals, break them into actionable tasks, stay consistent, and follow through.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
